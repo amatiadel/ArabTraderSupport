@@ -1,0 +1,48 @@
+[
+  {
+    "user_id": 5878017415,
+    "username": "MrTarekSupport",
+    "quiz_date": "2025-10-24 15:49:09",
+    "responses": {
+      "age": "18-24",
+      "source": "youtube",
+      "goal": "learn"
+    },
+    "completed": true,
+    "group_access_granted": true,
+    "platform_id": "123123123"
+  },
+  {
+    "user_id": 6547181381,
+    "username": "EthanBullBear",
+    "quiz_date": "2025-10-24 16:47:06",
+    "responses": {
+      "age": "18-24",
+      "source": "instagram",
+      "goal": "income"
+    },
+    "completed": true
+  },
+  {
+    "user_id": 6001052278,
+    "username": "YaAftobos",
+    "quiz_date": "2025-10-27 22:04:23",
+    "responses": {
+      "age": "18-24",
+      "source": "youtube",
+      "goal": "learn"
+    },
+    "completed": true
+  },
+  {
+    "user_id": 639127945,
+    "username": "Sergeymoneyy",
+    "quiz_date": "2025-10-28 13:24:46",
+    "responses": {
+      "age": "25-35",
+      "source": "instagram",
+      "goal": "learn"
+    },
+    "completed": true
+  }
+]

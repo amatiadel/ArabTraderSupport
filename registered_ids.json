@@ -1,0 +1,45 @@
+[
+  {
+    "platform_id": "64827386",
+    "user_id": 5878017415,
+    "username": "MrTarekSupport",
+    "registration_date": "2025-10-27 10:11:17",
+    "verified": true
+  },
+  {
+    "platform_id": "86536894",
+    "user_id": 5878017415,
+    "username": "MrTarekSupport",
+    "registration_date": "2025-10-27 10:11:47",
+    "verified": true
+  },
+  {
+    "platform_id": "48267523",
+    "user_id": 5878017415,
+    "username": "MrTarekSupport",
+    "registration_date": "2025-10-27 11:06:15",
+    "verified": true
+  },
+  {
+    "platform_id": "51588018",
+    "user_id": 5878017415,
+    "username": "MrTarekSupport",
+    "registration_date": "2025-10-27 11:16:34",
+    "verified": true
+  },
+  {
+    "platform_id": "51172376",
+    "user_id": 5878017415,
+    "username": "MrTarekSupport",
+    "registration_date": "2025-10-27 11:25:32",
+    "verified": true
+  },
+  {
+    "platform_id": "123123123",
+    "user_id": 5878017415,
+    "username": "MrTarekSupport",
+    "registration_date": "2025-10-27 11:30:00",
+    "verified": true,
+    "test_id": true
+  }
+]
