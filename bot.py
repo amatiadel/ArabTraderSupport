@@ -25,7 +25,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot token - replace with your actual bot token
-BOT_TOKEN = "7948819240:AAFHyTpDKr7-oVp6WNBrkgjZWn6TNzKtwsc"
+BOT_TOKEN = "7948819240:AAESfygf1fou5CM6Q5aOzDMo0wbFEY0LVfs"
 
 # Partner bot configuration
 PARTNER_BOT_USERNAME = "QuotexPartnerBot"
@@ -997,7 +997,7 @@ async def button_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
             try:
                 # Create invite link that can be used once (bot must be admin in the private group)
                 invite_link = await context.bot.create_chat_invite_link(
-                    chat_id=-4762854142,  # Replace with your actual private group ID (negative number)
+                    chat_id=-1002273198812,  # Replace with your actual private group ID (negative number)
                     expire_date=None,  # No expiration
                     member_limit=1,  # Can only be used once
                     name="Private Group Access"
@@ -1047,7 +1047,7 @@ async def button_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
                     try:
                         # Create invite link that can be used once (bot must be admin in the private group)
                         invite_link = await context.bot.create_chat_invite_link(
-                            chat_id=-4762854142,  # Replace with your actual private group ID (negative number)
+                            chat_id=-1002273198812,  # Replace with your actual private group ID (negative number)
                             expire_date=None,  # No expiration
                             member_limit=1,  # Can only be used once
                             name="Private Group Access"

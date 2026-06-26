@@ -1,0 +1,15 @@
+[Unit]
+Description=ArabTrader Support Bot
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/ArabTraderSupport
+Environment="PATH=/root/ArabTraderSupport/venv/bin"
+ExecStart=/root/ArabTraderSupport/venv/bin/python3 /root/ArabTraderSupport/start_bot.py
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

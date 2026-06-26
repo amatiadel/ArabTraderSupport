@@ -16,7 +16,7 @@ os.environ.pop('https_proxy', None)
 os.environ.pop('ALL_PROXY', None)
 os.environ.pop('all_proxy', None)
 
-BOT_TOKEN = "7948819240:AAFHyTpDKr7-oVp6WNBrkgjZWn6TNzKtwsc"
+BOT_TOKEN = "7948819240:AAESfygf1fou5CM6Q5aOzDMo0wbFEY0LVfs"
 
 async def test_connection():
     """Test bot connection to Telegram"""
